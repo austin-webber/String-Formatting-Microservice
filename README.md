@@ -12,6 +12,7 @@
     Next, ZeroMQ requires that you prepare a context and a socket to request data from.
     This socket must be connected over TCP to an endpoint.
     Now you can prepare your request using the "message_t" data type.
+    **IMPORTANT: Your request data must be formatted as follows "format<streak_length>*<habit_name>%<days_left>". This lets the server know you are making a formatting request.**
     Finally, you can use the socket to send your request to the server.
     
     These steps can be observed in the example below:
