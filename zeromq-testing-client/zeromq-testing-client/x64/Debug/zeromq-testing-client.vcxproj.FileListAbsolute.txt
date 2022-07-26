@@ -1,0 +1,1 @@
+C:\Users\theAw\Desktop\zeromq testing\zeromq-testing-client\zeromq-testing-client\x64\Debug\zeromq-testing-client.vcxproj.CopyComplete

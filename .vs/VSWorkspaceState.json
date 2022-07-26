@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\zeromq-testing-client",
+    "\\zeromq-testing-client\\zeromq-testing-client",
+    "\\zeromq-testing-server",
+    "\\zeromq-testing-server\\zeromq-testing"
+  ],
+  "SelectedNode": "\\zeromq-testing-server\\zeromq-testing-server.sln",
+  "PreviewInSolutionExplorer": false
+}
