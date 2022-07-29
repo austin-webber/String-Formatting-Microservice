@@ -7,6 +7,8 @@
  Specifically, this microservice was programmed for use by my partner in CS361 at OSU. 
  They created a habit tracker. The application (client) will send a string of variables to the server, which will take the variables and send them back in a specific format.
  
+ The microservice is not hosted anywhere as a web service, so the "zeromq-testing-server" folder will need to be downloaded. From there you can double click the solution file to open the project and run it locally. Because it was written in C++, you will need to build the ZeroMQ library for C++ before attempting to run the server.
+ 
  - #### How to REQUEST data from the server: 
     First, you need to build the ZeroMQ library for your given programming language.
     Next, ZeroMQ requires that you prepare a context and a socket to request data from.
